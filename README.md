@@ -1,4 +1,4 @@
-# Hi there, I'm Laribok - aka ichimichi
+# Hi there, I'm Laribok
 
 ## I'm a Computer Science and Engineering Bachelor
 
